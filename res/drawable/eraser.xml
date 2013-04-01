@@ -1,0 +1,8 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item  android:state_pressed="true"  android:drawable="@drawable/tool_eraser_press" />
+	
+	<item  android:state_selected= "true" android:drawable="@drawable/tool_eraser_nor" />
+	
+	<item  android:drawable="@drawable/tool_eraser_nor" />
+</selector>

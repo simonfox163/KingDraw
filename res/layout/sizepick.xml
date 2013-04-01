@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="480dip"
+    android:layout_height="30dip"
+     android:background="@android:color/darker_gray"  >
+    
+    <LinearLayout
+            android:layout_width="480dip"
+            android:layout_height="40dip"
+            android:orientation="horizontal"
+             android:layout_marginLeft="40dip"
+            android:layout_marginTop="30dip">
+    
+	    <ImageView
+	    	android:id="@+id/size1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			 android:layout_marginLeft="20dip"
+			android:background="@drawable/size_radio_1_focus"/>
+		
+		<ImageView
+	    	android:id="@+id/size2"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="20dip"
+			android:background="@drawable/size_radio_2_focus"/>
+	    <ImageView
+	    	android:id="@+id/size3"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="20dip"
+	    	android:background="@drawable/size_radio_3_focus"/>
+	    <ImageView
+	    	android:id="@+id/size4"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="20dip"
+			android:background="@drawable/size_radio_4_focus"/>
+	    
+	    <ImageView
+	    	android:id="@+id/size5"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="20dip"
+			android:background="@drawable/size_radio_5_focus"/>
+	    </LinearLayout>
+	 
+</LinearLayout>

@@ -1,0 +1,49 @@
+10
+
+dir
+3
+svn://127.0.0.1/KingDraw/trunk/src/com/king/draw
+svn://127.0.0.1/KingDraw
+
+
+
+2012-08-22T16:35:01.606877Z
+3
+gaocong
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1ad689be-7336-4600-9c6a-97d82e4f7cde
+
+utils
+dir
+
+shapes
+dir
+
+interfaces
+dir
+
+data
+dir
+
+view
+dir
+
+drawtool
+dir
+
+activity
+dir
+
